@@ -1,1 +1,6 @@
-ecdsa
+ecdsa>=0.18.0
+cryptography>=41.0.0
+pytest>=7.4.0
+flake8>=6.1.0
+mypy>=1.5.0
+black>=23.7.0
